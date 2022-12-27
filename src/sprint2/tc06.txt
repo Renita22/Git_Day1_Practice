@@ -1,0 +1,5 @@
+Kim has done tc06
+
+Kim added tc06 to smoke suite
+
+--------
